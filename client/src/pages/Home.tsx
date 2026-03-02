@@ -5,6 +5,7 @@ import { Button } from "@/components/ui/button";
 
 // Imagem Principal Anexada
 import produtoImagem from "@assets/55069001-5BCE-4CB8-AE51-CB3B2449E42D_1772459776931.png";
+import cartaAbertaImagem from "@assets/IMG_E5D92B66-F39C-4F89-909F-1C535901CDF5_1772460112723.jpeg";
 
 const CHECKOUT_LINK = "https://bianca-inspira.pay.yampi.com.br/pay/GC3XRJ0OWW";
 
@@ -146,9 +147,9 @@ export default function Home() {
             <FadeIn>
               {/* Substituir por: /images/cartas-abertas.jpg */}
               <img 
-                src="https://images.unsplash.com/photo-1615592389070-bcc97e0504d3?q=80&w=1000&auto=format&fit=crop" 
-                alt="Cartas Abertas" 
-                className="rounded-2xl shadow-xl hover:shadow-2xl transition-shadow"
+                src={cartaAbertaImagem} 
+                alt="Carta Aberta do Oráculo" 
+                className="rounded-2xl shadow-xl hover:shadow-2xl transition-shadow w-full object-cover"
               />
             </FadeIn>
             <div className="space-y-6">

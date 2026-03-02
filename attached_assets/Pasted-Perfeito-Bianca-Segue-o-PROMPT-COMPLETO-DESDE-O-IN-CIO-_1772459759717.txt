@@ -1,0 +1,229 @@
+Perfeito, Bianca.
+Segue o **PROMPT COMPLETO DESDE O INÍCIO**, estruturado de forma profissional, sem emojis e já com o link atual de pagamento inserido corretamente.
+
+---
+
+# PROMPT – CRIAR PÁGINA DE VENDAS PREMIUM COMPLETA
+
+Crie uma página de vendas premium em HTML, CSS e JavaScript, em arquivo único chamado **index.html**, para o produto físico:
+
+Oráculo das Infinitas Possibilidades
+
+Produto composto por:
+
+* Oráculo com 108 cartas autorais de expansão de consciência, desbloqueio emocional, merecimento e manifestação.
+* Orgonite artesanal exclusivo feito com selenita branca, apatita e ametista.
+
+---
+
+## OBJETIVO
+
+Desenvolver uma página sofisticada, espiritualizada e altamente persuasiva, com foco em conversão.
+
+---
+
+## LINK OFICIAL DE PAGAMENTO
+
+Utilizar este link em todos os botões de compra:
+
+[https://bianca-inspira.pay.yampi.com.br/pay/GC3XRJ0OWW](https://bianca-inspira.pay.yampi.com.br/pay/GC3XRJ0OWW)
+
+Regras obrigatórias:
+
+* Todos os botões devem direcionar para esse link.
+* O link deve abrir em nova aba (target="_blank").
+* Manter efeito visual premium nos botões.
+
+---
+
+## REQUISITOS TÉCNICOS
+
+* Arquivo único (index.html)
+* HTML semântico
+* CSS moderno com variáveis de cores
+* JavaScript leve para animações suaves
+* Layout responsivo (mobile first)
+* Código organizado e comentado
+* SEO básico com meta tags
+* Estrutura preparada para inserir imagens reais posteriormente
+
+---
+
+## IDENTIDADE VISUAL
+
+Paleta de cores:
+
+* Roxo profundo
+* Lavanda
+* Branco
+* Dourado suave
+
+Tipografia:
+
+* Fonte serifada elegante para títulos
+* Fonte moderna sem serifa para textos
+
+Estilo:
+
+* Minimalista
+* Luxuoso
+* Feminino sofisticado
+* Fundo com degradê suave
+* Seções com sombra leve
+* Bordas arredondadas
+
+---
+
+## EFEITOS VISUAIS
+
+* Header fixo com botão de compra
+* Botão flutuante
+* Animações suaves ao rolar (fade-in, slide-up)
+* Efeito glow sutil dourado nos botões
+* Transições suaves
+* Leve efeito parallax no hero
+
+---
+
+## ESTRUTURA COMPLETA DA PÁGINA
+
+### 1. Hero Section
+
+* Headline emocional forte
+* Subheadline transformacional
+* Botão principal de compra
+* Espaço para imagem principal do oráculo
+* Tag de imagem com placeholder:
+  /images/oraculo-principal.jpg
+* Comentário no código solicitando substituição pela imagem oficial
+
+---
+
+### 2. Seção Dor da Persona
+
+* Texto emocional profundo
+* Espaço para imagem ilustrativa
+* Placeholder:
+  /images/mulher-oficial.jpg
+* Comentário informando que a imagem real será enviada para substituição
+
+---
+
+### 3. Seção Apresentação do Oráculo
+
+* Explicação das 108 cartas
+* Ritual de uso
+* Benefícios emocionais e espirituais
+* Placeholder:
+  /images/cartas-abertas.jpg
+
+---
+
+### 4. Seção Orgonite Exclusivo
+
+* Explicação do orgonite
+* Três cards explicando:
+
+  * Selenita branca
+  * Apatita
+  * Ametista
+* Placeholder da imagem principal:
+  /images/orgonite-oficial.jpg
+* Placeholder detalhe:
+  /images/cristais-detalhe.jpg
+* Comentário informando que as imagens reais serão enviadas para substituição
+
+---
+
+### 5. Seção Benefícios
+
+Lista com ícones elegantes:
+
+* Clareza emocional
+* Alinhamento interior
+* Fortalecimento da intuição
+* Expansão da consciência
+* Apoio energético contínuo
+
+---
+
+### 6. Seção Como Usar
+
+Passo a passo simples:
+
+1. Conecte-se
+2. Faça uma pergunta
+3. Escolha uma carta
+4. Medite na mensagem
+5. Posicione o orgonite próximo
+
+---
+
+### 7. Seção Para Quem É / Não É
+
+Layout em duas colunas equilibradas.
+
+---
+
+### 8. Seção Depoimento Ilustrativo
+
+Texto humanizado e emocional.
+
+---
+
+### 9. Seção Garantia
+
+Garantia de satisfação.
+
+---
+
+### 10. Seção Informações de Envio
+
+* Envio para todo Brasil
+* Produção artesanal
+* Código de rastreio enviado por e-mail
+* Prazo estimado de produção e entrega
+
+---
+
+### 11. CTA Final
+
+* Headline forte e direta
+* Botão grande centralizado com o link oficial de pagamento
+
+---
+
+## IMAGENS
+
+* Criar todas as tags <img> já posicionadas corretamente
+* Garantir que as imagens sejam responsivas
+* Aplicar bordas arredondadas
+* Aplicar sombra suave
+* Aplicar leve efeito de zoom no hover
+* Adicionar comentários no código indicando que as imagens oficiais serão enviadas posteriormente para substituição
+
+---
+
+## COPY STYLE
+
+* Espiritualizada
+* Feminina
+* Acolhedora
+* Elegante
+* Com autoridade terapêutica
+* Persuasiva sem exageros místicos
+
+---
+
+## ENTREGA FINAL ESPERADA
+
+* Código completo
+* Totalmente funcional
+* Comentado
+* Pronto para rodar no Replit
+* Sem erros
+* Visual premium
+
+---
+
+Se quiser, no próximo passo posso gerar o código completo diretamente para você.

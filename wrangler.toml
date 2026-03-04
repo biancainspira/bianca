@@ -1,2 +1,5 @@
 name = "bianca"
-pages_build_output_dir = "dist/public"
+compatibility_date = "2026-03-04"
+
+[assets]
+directory = "./dist/public"
